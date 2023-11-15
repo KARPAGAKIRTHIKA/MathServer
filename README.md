@@ -146,11 +146,10 @@ urlpatterns = [
 
 ```
 ## SERVER SIDE PROCESSING:
-![Alt text](<Screenshot 2023-11-15 150333.png>)
-
-## HOMEPAGE:
 ![Alt text](<Screenshot 2023-11-15 145816.png>)
 
+## HOMEPAGE:
 
+![Alt text](<Screenshot 2023-11-15 150333.png>)
 ## RESULT:
 The program for performing server side processing is completed successfully.
